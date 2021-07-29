@@ -1,3 +1,5 @@
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbuginet&count_bg=%237ACEBF&title_bg=%2314605F&icon=protocols-dot-io.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Coding Infant 😄
 
 <!--
@@ -16,6 +18,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buginet&show_icons=true&theme=dracula)
-
 
 
