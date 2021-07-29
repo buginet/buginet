@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=28E7C3&height=100&section=header&text=Coding%20Infant&fontSize=40&fontColor=ffffff)
+
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbuginet&count_bg=%237ACEBF&title_bg=%2314605F&icon=protocols-dot-io.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Coding Infant 😄
